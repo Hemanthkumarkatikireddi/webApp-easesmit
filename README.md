@@ -62,16 +62,16 @@ This project is an e-commerce listing page built with **React** and styled with 
    ```
 4. **Run the Project**
    ```bash
-   npm start
+   npm run dev
    ```
 5. **View the Application** Once the project is running, open your browser and navigate to
    ```http
-   http://localhost:3000/
+   http://localhost:5173/
    ```
 
 ## Live Demo
 
 The project is deployed and accessible at:
-[Live Demo](https://easesmith-webapp.onrender.com) on Render
+[Live Demo](https://webapp-easesmit.onrender.com/) on Render
 
 You can visit the deployed version of the website using the above link.
