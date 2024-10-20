@@ -50,7 +50,7 @@ This project is an e-commerce listing page built with **React** and styled with 
 
 1. **Clone the Repository**
    ```bash
-   git clone <>
+   git clone <https://github.com/Hemanthkumarkatikireddi/webApp-easesmit.git>
    ```
 2. **Navigate to the Project Directory**
    ```bash
