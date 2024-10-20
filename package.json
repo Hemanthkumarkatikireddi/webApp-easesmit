@@ -1,12 +1,8 @@
 {
-  "home": "https://Hemanthkumarkatikireddi.github.io/easesmith-webapp/",
-  "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -37,5 +33,10 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",
     "vite": "^5.4.8"
-  }
+  },
+  "name": "frontend",
+  "description": "## Project Overview",
+  "main": "eslint.config.js",
+  "author": "",
+  "license": "ISC"
 }

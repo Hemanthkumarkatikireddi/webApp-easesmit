@@ -50,7 +50,7 @@ This project is an e-commerce listing page built with **React** and styled with 
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <>
    ```
 2. **Navigate to the Project Directory**
    ```bash
